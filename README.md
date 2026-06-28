@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Arpit+Bhakal;Java+Backend+Developer+in+Progress;Spring+Boot+%7C+Hibernate+%7C+JPA;DSA+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+</p>
+
 # Hi 👋, I'm Arpit Bhakal
 
 ### Java Backend Developer in Progress 🚀
@@ -28,10 +32,6 @@
 
 Coming soon...
 
-## 📊 GitHub Stats
 
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitBhakal&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitBhakal&layout=compact&theme=tokyonight)
 
 
