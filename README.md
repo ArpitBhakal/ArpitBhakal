@@ -50,7 +50,6 @@
 
 ## 📊 GitHub Stats
 
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArpitBhakal&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitBhakal&layout=compact&theme=tokyonight)
 
