@@ -48,13 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitBhakal&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/arpit-bhakal-a9a253297/
