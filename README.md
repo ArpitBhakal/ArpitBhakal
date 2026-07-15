@@ -57,7 +57,7 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: Coming Soon
+- LinkedIn: https://www.linkedin.com/in/arpit-bhakal-a9a253297/
 - Portfolio: Coming Soon
 
 
